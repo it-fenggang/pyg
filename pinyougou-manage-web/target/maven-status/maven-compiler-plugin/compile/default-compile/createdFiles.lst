@@ -1,0 +1,9 @@
+com\pinyougou\manage\controller\ContentCategoryController.class
+com\pinyougou\manage\controller\SellerController.class
+com\pinyougou\manage\controller\LoginController.class
+com\pinyougou\manage\controller\BrandController.class
+com\pinyougou\manage\controller\ContentController.class
+com\pinyougou\manage\controller\ItemCatController.class
+com\pinyougou\manage\controller\SpecificationController.class
+com\pinyougou\manage\controller\UploadController.class
+com\pinyougou\manage\controller\TypeTemplateController.class

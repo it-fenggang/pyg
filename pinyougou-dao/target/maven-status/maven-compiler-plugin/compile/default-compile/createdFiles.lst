@@ -1,0 +1,12 @@
+com\pinyougou\mapper\SellerMapper.class
+com\pinyougou\mapper\SpecificationOptionMapper.class
+com\pinyougou\mapper\BrandMapper.class
+com\pinyougou\mapper\ContentMapper.class
+com\pinyougou\mapper\ContentCategoryMapper.class
+com\pinyougou\mapper\SpecificationMapper.class
+com\pinyougou\mapper\GoodsMapper.class
+com\pinyougou\mapper\GoodsDescMapper.class
+com\pinyougou\mapper\TypeTemplateMapper.class
+com\pinyougou\service\impl\BaseServiceImpl.class
+com\pinyougou\mapper\ItemCatMapper.class
+com\pinyougou\mapper\ItemMapper.class
